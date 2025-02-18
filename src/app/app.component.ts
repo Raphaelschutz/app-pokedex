@@ -24,7 +24,7 @@ pokemonList = POKEMON_LIST;
       return 'grand';
     }
 
-      return 'Moyen';
+      return 'Big';
 
   };
 
